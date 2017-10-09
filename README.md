@@ -4,5 +4,6 @@
 - [GitHub - Xel/Blockchain-stuff: Blockchain and Crytocurrency Resources](https://github.com/Xel/Blockchain-stuff)
 - [GitHub - Scanate/EthList: The Comprehensive Ethereum Reading List](https://github.com/Scanate/EthList)
 
-## Books
-- [GitHub - yeasy/blockchain_guide: Introduce blockchain related technologies, from theory to practice with bitcoin, ethereum and hyperledger.](https://github.com/yeasy/blockchain_guide)
+## Excellent video to explain blockchain
+- [Blockchain Demo](https://anders.com/blockchain/)
+- [Ever wonder how Bitcoin (and other cryptocurrencies) actually work?](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
